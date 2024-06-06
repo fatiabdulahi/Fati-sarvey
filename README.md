@@ -50,12 +50,11 @@ you can access to my project through git clone
 4: Suggestions and Feedback
 ## Author 👩‍💻
 
-## Author 👩‍💻
 
 Fatima Abdullahi
 
 - Email: [ fatima333abdullahi@gmail.com)
- -Website:  https://saqibi4213.github.io/survey-form/
+
 
 ## Contributing 🤝
 
